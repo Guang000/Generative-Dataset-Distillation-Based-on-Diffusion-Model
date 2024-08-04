@@ -1,4 +1,4 @@
-# ECCV 2024 Workshop - The First Dataset Distillation Challenge
+# ECCV 2024 Workshop - The First Dataset Distillation Challenge Submission
 
 ## TEAM - BANKO
 
