@@ -1,7 +1,7 @@
 # [Generative Dataset Distillation Based on Diffusion Model](https://arxiv.org/abs/2408.08610)
 
 
-## The Third Place Winner in Generative Track of the [ECCV 2024 DD Challenge](https://www.dd-challenge.com/)
+## [ECCV 2024 The First Dataset Distillation Challenge](https://www.dd-challenge.com/) Track 2 Third Place
 
 
 ### Environment
